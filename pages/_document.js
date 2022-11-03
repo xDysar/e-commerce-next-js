@@ -4,7 +4,6 @@ export default function Document() {
   return (
     <Html>
       <Head>
-        <meta name="description" content="GuitarLA - Venta de Guitarras y blog de musica" />
         <meta name="keywords" content="Guitarras, blog" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin={'true'} />

@@ -4,7 +4,7 @@ import styles from '../styles/footer.module.css'
 export default function Footer() {
   return (
     <footer className={styles.footer}>
-      <div class={`contenedor ${styles.contenido}`}>
+      <div className={`contenedor ${styles.contenido}`}>
         <nav className={styles.navegacion}>
           <Link href="/">Inicio</Link>
           <Link href="/nosotros">Nosotros</Link>

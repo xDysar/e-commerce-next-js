@@ -34,3 +34,25 @@ main {
   color: var(--primary);
   margin: 5rem 0;
 }
+
+.alto {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+
+.error,
+.error-enlace {
+  font-size: 2.4rem;
+  text-align: center;
+  margin-top: 5rem;
+}
+
+.error-enlace {
+  font-size: 1.8rem;
+  display: block;
+  text-decoration: none;
+  color: var(--primary);
+}

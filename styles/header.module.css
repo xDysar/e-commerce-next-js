@@ -18,10 +18,16 @@
   }
 }
 
+.logo {
+  width: 30rem;
+  height: 10rem;
+}
+
 .navegacion {
   margin-top: 5rem;
   display: flex;
   gap: 2rem;
+  align-items: center;
 }
 
 @media (min-width: 768px) {
